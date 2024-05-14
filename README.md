@@ -1,3 +1,4 @@
+
 # wellnessRoad
 
 ~ RE:코더팀 핵심프로젝트 ~
@@ -49,7 +50,105 @@
         <td>개발도구</td>
         <td>
             <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>         
-            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCo함
+            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>서버환경</td>
+        <td>
+            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>데이터베이스</td>
+        <td>
+            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>협업도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </td>
+    </tr>
+</table>
+
+
+<br>
+
+## ⚙ 시스템 아키텍처(구조)
+![System Architecture](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/6624f169-0fc9-4a3c-a250-e025eadf1b7d)
+
+<br>
+
+## 📌 SW유스케이스
+![usecase](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/c3643495-8a51-4c73-b810-b97a67f87d3b)
+
+<br>
+
+## 📌서비스 흐름도
+![Service wave](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/cd140cd6-c0b0-437e-8165-d32efb488e43)
+
+
+<br>
+
+## 📌 ER다이어그램
+![ER DIAGRAM](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/ea4e2d7a-edfe-4a2a-acdc-b32c5e6ddba7)
+
+<br>
+
+## 🖥 화면 구성
+
+### 회원가입
+![JOIN](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/984130f2-6d9c-4207-b69e-dc88521784a5)
+
+<br>
+
+### 로그인 
+![LOGIN](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/af83372a-f2c0-4a73-907f-571f0c38100a)
+
+<br>
+
+### 새로운 일정 만들기 01
+![0001](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/df9c003f-c966-495f-ae8f-46ecd4555cf2)
+<br>
+
+### 새로운 일정 만들기 02
+![0002](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/4c0855c6-16a6-4495-aeec-f026729379d5)
+
+<br>
+
+### 새로운 일정 만들기 03
+![0003](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/f8ae1a04-d32f-4949-a2d8-d5ac0a01351f)
+
+<br>
+
+### 새로운 일정 만들기 04
+![0004](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/c7c5ab8b-f2ca-4dd5-9b48-adfa3d35dbf9)
+
+<br>
+
+
+### 준비물
+![0005](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/e2279d83-554f-4986-a9e3-e89ae9214623)
+
+<br>
+
+### 게시판
+![0006](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/8cfa037a-95e9-44fe-b5f9-296d61da0725)
+
+### 트러블슈팅
+![13554413541](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/3f37fa07-2a9f-4f81-a60d-51a5c176c598)
+
+<br>
+
+순서만 바꾸는걸로 처음에 했는데, 밑에있는거를 위로 옮기면 스왑으로 동작이 잘 되는데,
+위에 있는거를 아래로 내릴 때, 스왑으로 하면 순서가 엉망됐다.
+위에있는거를 빼서 넣을 공간에 넣어서 밀리며 순서가 다시 조정되어야한다.
+빼서 인서트로 끼워 넣어야한다라는 걸 알게되었습니다.
+
+<br>
 
 <br>
 ## 👨‍👩‍👦‍👦 팀원 역할
